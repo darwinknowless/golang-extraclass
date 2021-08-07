@@ -36,7 +36,7 @@ func main() {
 	p1.name = "Knowless"
 	p3.name = "DK"
 
-	fmt.Println(p1)
-	fmt.Println(p2)
-	fmt.Println(p3)
+	fmt.Println("p1", p1)
+	fmt.Println("p2", p2)
+	fmt.Println("p3", p3)
 }
